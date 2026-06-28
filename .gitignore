@@ -2,8 +2,6 @@ node_modules
 dist
 .env
 
-package-lock.json
-
 WAITLIST_SETUP.md
 
 DEPLOY.md
